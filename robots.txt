@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qikotavagu.pages.dev/sitemap.xml
